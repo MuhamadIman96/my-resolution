@@ -1,3 +1,6 @@
 Rencana Kedapan
 - Menjadi Back-end
+  *Java
+  *Ruby
+  *Node.js
 - Menjadi Software enginer
